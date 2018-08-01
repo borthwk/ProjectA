@@ -1,0 +1,1 @@
+wget -m http://diamondev.com/~dejan/manpower/home.html
